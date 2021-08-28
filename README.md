@@ -143,9 +143,9 @@ Daqui pra frente é só pra trás (brincadeira), temos um pouco de tudo e tudo m
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5517996272671)](https://wa.me/5517996272671)
 
 ### ⚡ Github Status
-<div>
-  <a href="#"><img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'/>
+<a href="#"><img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'/>
   </a>
+<div>
   <a href="#">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=echer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
