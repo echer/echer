@@ -2,7 +2,7 @@
   <a href="#"><img height="280em" align='right' src='https://github.com/echer/echer/raw/master/android.gif'/></a>
 Desenvolvedor Android (❤️) desde quando a versão era 2 e a principal IDE era o Eclipse, faz tempo, né? Dá pra ter uma ideia! Bom, as coisas evoluíram muito desde lá, estamos aí sempre em busca de conhecimento e a mente aberta para o novo!
 
-Next step: Inglês fluente, me aguarde!
+Next step: MIT em Inteligência Artificial, Machine Learning e Deep Learning!
 
 Minha jornada em algoritmo começa com o clássico portugol e pascal, fazer menus no console usando posição e outras coisas malucas, quem inventou esse negócio de 0 e 1?!
 
