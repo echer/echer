@@ -2,7 +2,7 @@
   <a href="#"><img height="280em" align='right' src='https://github.com/echer/echer/raw/master/android.gif'/></a>
 Desenvolvedor Android (❤️) desde quando a versão era 2 e a principal IDE era o Eclipse, faz tempo, né? Dá pra ter uma ideia! Bom, as coisas evoluíram muito desde lá, estamos aí sempre em busca de conhecimento e a mente aberta para o novo!
 
-**Cursando**: MBA em Data Science com IA INFNET
+**Cursando**: MBA em Data Science com IA pelo Instituto INFNET
 
 **Completo**: MIT em Inteligência Artificial, Machine Learning e Deep Learning pelo Instituto INFNET
 
