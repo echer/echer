@@ -1,18 +1,70 @@
 ## `</alan-echer>` :rocket::rocket::brazil:
   <a href="#"><img height="280em" align='right' src='https://github.com/echer/echer/raw/master/android.gif'/></a>
-Desenvolvedor Android (❤️) desde quando a versão era 2 e a principal IDE era o Eclipse, faz tempo, né? Dá pra ter uma ideia! Bom, as coisas evoluíram muito desde lá, estamos aí sempre em busca de conhecimento e a mente aberta para o novo!
 
-**Cursando**: MBA em Data Science com IA pelo Instituto INFNET
+Atualmente atuo no desenvolvimento de software assistido por Inteligência Artificial, utilizando o agente Devin AI como parte do processo de engenharia para implementação de funcionalidades, análise de cenários técnicos, elaboração de Pull Requests e automação de tarefas de desenvolvimento. Minha atuação envolve revisar, validar e evoluir as entregas produzidas pelo agente, garantindo aderência à arquitetura, qualidade do código e padrões de engenharia antes da integração ao produto.
 
-**Completo**: MIT em Inteligência Artificial, Machine Learning e Deep Learning pelo Instituto INFNET
+Sou Senior Android Engineer com mais de 13 anos de experiência no desenvolvimento de aplicações móveis e soluções corporativas, com atuação em empresas dos segmentos financeiro, ERP, transformação digital e startups. Atualmente desenvolvo produtos digitais para o Santander, através da GFT, participando da evolução da plataforma ODS (Open Development System), framework estratégico utilizado para padronização do desenvolvimento de aplicações globais.
 
-Minha jornada em algoritmo começa com o clássico portugol e pascal, fazer menus no console usando posição e outras coisas malucas, quem inventou esse negócio de 0 e 1?!
+Minha especialidade é o desenvolvimento Android utilizando Kotlin e Java, com experiência em arquitetura de software, revisão técnica de código, liderança técnica, gestão de releases, publicação de aplicativos e melhoria contínua de produtos utilizados por milhões de clientes.
 
-Depois foi a época de sofrer com estrutura de dados com C e C++ e que sofrimento, pra que ponteiros?!
+Paralelamente, venho direcionando minha carreira para Inteligência Artificial, Machine Learning e Deep Learning, buscando aplicar essas tecnologias na engenharia de software e na automação do ciclo de desenvolvimento.
 
-Chega de sofrimento né, bora pra orientação a objetos utilizando Java (❤️) e aprender todos os paradigmas, que aliás servem para muitas coisas!
+🎓 MBA em Data Science com IA — Instituto INFNET (em andamento)
 
-Daqui pra frente é só pra trás (brincadeira), temos um pouco de tudo e tudo misturado então tome cuidado, o conteúdo a seguir pode causar reações adversas: JSP e Servlets, JSF, JEE, JAX-RS, JAX-WS, JPA, Hibernate, Spring, JBoss, Wildfly e Wildfly Swarm, Glassfish, Payara, J2ME, Windows Phone, C#, .Net Core, Blazor, Entity Framework, Windows Forms, Linux (❤️), Ubuntu, Mint, CentOS, Kali, Metasploit, Docker e Compose, Bash Script, Nginx, Apache HTTP, DNS, PostresSQL, MySQL, PHP, HTML, CSS, Javascript, Typescript, Node JS, Angular, React, Kotlin (❤️), Flutter, SEO, Mailchimp, Cloudflare, Heroku, Digital Ocean, AWS, GCP, OpenShift, MT5 (Meta Trader 5), Solidity (blockchain ❤️), Protheus, ADVPL, Fluig, BPMN... e outras coisas mais que não estou lembrando agora.
+🎓 MIT em Inteligência Artificial, Machine Learning e Deep Learning — Instituto INFNET
+
+Certificações
+
+ • AWS Certified AI Practitioner (AIF-C01)
+ 
+ • AWS Certified Developer – Associate (DVA-C02)
+ 
+ • AWS Certified Cloud Practitioner (CLF-C02)
+ 
+ • Microsoft Azure Fundamentals (AZ-900)
+ 
+Principais tecnologias
+
+ Android • Kotlin • Java • ODS • Devin AI • Clean Architecture • Jetpack • Room • Retrofit • Dagger • Hilt • RxJava • Coroutines • Spring • Docker • AWS • PostgreSQL • Git • CI/CD
+ 
+Perfis
+
+ GitHub: github.com/echer
+ 
+ GitLab: gitlab.com/alan.echer
+ 
+ Google Developer Profile: developers.google.com/profile/u/115948025549606551601
+ 
+ Kaggle: kaggle.com/alanecher
+
+### :brain: Artificial Intelligence & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### :robot: Generative AI & AI Engineering
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00897B?style=for-the-badge&logo=databricks&logoColor=white)
+
+### :cloud: Cloud AI & MLOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### :rocket: Mobile
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
